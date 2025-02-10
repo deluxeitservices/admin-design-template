@@ -1,0 +1,18 @@
+Theme Version 1.4 Updates 
+============================
+Added : add bootstrep 5 version
+
+
+Theme Version 1.3 Updates 
+============================
+Updated : gulp vesion
+fixed : compact layout sidebar issue solved
+
+Theme Version 1.2 Updates 
+============================
+Added : gulp integrated
+
+Theme Version 1.1 Updates 
+============================
+Added : add notification when copied icon html
+
